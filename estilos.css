@@ -1,0 +1,13 @@
+.menu{
+
+background-color: transparent;
+
+}
+
+.fondo{
+
+background-image: url("img/thumb-1920-842583.jpg");
+background-size: cover;
+background-position: top center;
+padding: 20% 50% 20% 2%;
+}
